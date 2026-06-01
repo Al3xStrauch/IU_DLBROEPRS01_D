@@ -1,0 +1,85 @@
+Arduino: READY
+PC -> Arduino: 5+5
+Arduino -> PC: RESULT: 10.0000
+-----------------------------
+PC -> Arduino: 10*10
+Arduino -> PC: RESULT: 100.0000
+-----------------------------
+PC -> Arduino: 19 / 2
+Arduino -> PC: RESULT: 9.5000
+-----------------------------
+PC -> Arduino: 10+0
+Arduino -> PC: RESULT: 10.0000
+-----------------------------
+PC -> Arduino: 19/0
+Arduino -> PC: ERROR: Division by zero
+-----------------------------
+PC -> Arduino: 5+5
+Arduino -> PC: Ergebniss: 10.0
+-----------------------------
+PC -> Arduino: 5/0
+Arduino -> PC: Fehler: Division durch 0 nicht moeglich
+-----------------------------
+PC -> Arduino: 5+
+Arduino -> PC: Fehler: Zweite Variable fehlt
+-----------------------------
+PC -> Arduino: 1-5
+Arduino -> PC: Ergebniss: -4.0
+-----------------------------
+PC -> Arduino: +5
+Arduino -> PC: Fehler: Zweite Variable fehlt
+-----------------------------
+PC -> Arduino: 5+p
+Arduino -> PC: Ergebniss: 5.0
+-----------------------------
+PC -> Arduino: ppp
+Arduino -> PC: Fehler: Kein Operator gefunden
+-----------------------------
+PC -> Arduino: p+p
+Arduino -> PC: Ergebniss: 0.0
+-----------------------------
+PC -> Arduino: ll+l
+Arduino -> PC: Ergebniss: 0.0
+-----------------------------
+PC -> Arduino: 10/0
+Arduino -> PC: Fehler: Division durch 0 nicht moeglich
+-----------------------------
+PC -> Arduino: 5+5
+Arduino -> PC: Ergebniss: 10.0
+-----------------------------
+PC -> Arduino: 5*5
+Arduino -> PC: Ergebniss: 25.0
+-----------------------------
+PC -> Arduino: 5+5+5
+Arduino -> PC: Ergebniss: 10.0
+-----------------------------
+PC -> Arduino: 5+a
+Arduino -> PC: Ergebniss: 5.0
+-----------------------------
+PC -> Arduino: 5+5+5
+Arduino -> PC: Ergebniss: 10.0
+-----------------------------
+PC -> Arduino: 5000+5000
+Arduino -> PC: Ergebniss: 10000.0
+-----------------------------
+PC -> Arduino: 50/0
+Arduino -> PC: Fehler: Division durch 0 nicht moeglich
+-----------------------------
+PC -> Arduino: 5+5
+Arduino -> PC: Ergebniss: 10.0
+-----------------------------
+PC -> Arduino: 20-7
+Arduino -> PC: Ergebniss: 13.0
+-----------------------------
+PC -> Arduino: 2*2
+Arduino -> PC: Ergebniss: 4.0
+-----------------------------
+PC -> Arduino: 100/4
+Arduino -> PC: Ergebniss: 25.0
+-----------------------------
+PC -> Arduino: 10/0
+Arduino -> PC: Fehler: Division durch 0 nicht moeglich
+-----------------------------
+PC -> Arduino: 55
+Arduino -> PC: Fehler: Kein Operator gefunden
+-----------------------------
