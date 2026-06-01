@@ -8,5 +8,5 @@ Dieses Repository enthält den Quellcode zur Mikrocontroller-Implementierung ein
 - arduino/sketch_may4a.ino: Mikrocontroller-Anwendung für den Elegoo UNO R3
 - pc_input/communication_log.txt: Beispielhafte Log-Datei der Kommunikation
 
-`cout << "Viele Grüße" << endl;
+`cout << "Viele Grüße" << endl;`
 Alexander Strauch 
